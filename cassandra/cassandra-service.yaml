@@ -10,3 +10,5 @@ spec:
     - port: 9042
   selector:
     app: cassandra
+selector:
+    app: cassandra
